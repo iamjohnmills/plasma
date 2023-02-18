@@ -1,8 +1,8 @@
 # Plasma
 
-Cool mathematical plasmas rendered with JS + Canvas
+Mathematical plasmas rendered with JS + Canvas
 
-<!--[![](https://raw.githubusercontent.com/iamjohnmills/plasma/master/screenshot.gif)](https://iamjohnmills.github.io/plasma)-->
+[![](https://raw.githubusercontent.com/iamjohnmills/plasma/master/screenshot.png)](https://iamjohnmills.github.io/plasma)
 
 https://lodev.org/cgtutor/plasma.html
 
